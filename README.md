@@ -11,4 +11,5 @@ de la librería
 
 ## Tutoriales
 
-[c-type](http://starship.python.net/crew/theller/ctypes/tutorial.html)
+1. [c-type](http://starship.python.net/crew/theller/ctypes/tutorial.html)
+2. [cookbook](http://scipy.github.io/old-wiki/pages/Cookbook/Ctypes)
