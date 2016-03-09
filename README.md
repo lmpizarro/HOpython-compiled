@@ -8,3 +8,7 @@ Para completar este ejercicio tienen que hacer los siguientes pasos:
 2. Construir una librería dinámica que tenga ambos objetos
 3. Escribir un script en python que pruebe **todas** las funciones
 de la librería
+
+## Tutoriales
+
+[c-type](http://starship.python.net/crew/theller/ctypes/tutorial.html)
